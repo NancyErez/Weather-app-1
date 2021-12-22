@@ -9,6 +9,14 @@ h1 {
   margin-bottom: 0;
 }
 
+
+.btn{
+  background-color: rgb(228, 23, 91);
+  outline-style:outset;
+}
+
+
+
 ul {
   margin: 0;
   padding: 0;
@@ -31,6 +39,8 @@ li:first-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+  background-color: rgb(155, 223, 240);
+
 }
 
 .weather-app {
